@@ -10,3 +10,6 @@ A curated list of code review checklists.
 
 ## Java Code Review Checklists
 - [30+ items for Reviewing Java Code](https://www.java-success.com/30-java-code-review-checklist-items/) The checklist has examples and is concrete, covering aspects relevant to object-oirented programming. 
+
+## Pull Request Checklist
+- [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
