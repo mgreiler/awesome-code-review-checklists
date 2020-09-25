@@ -1,4 +1,4 @@
-# awesome-code-review-checklists
+# Awesome Code Review Checklists
 
 A curated list of code review checklists.
 
