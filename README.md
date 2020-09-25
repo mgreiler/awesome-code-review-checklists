@@ -9,9 +9,8 @@ A curated list of code review checklists. Contributions welcome!
 
 ## Security Related Code Review Checklists
 - [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [Security Audit Checklist: Code Perspective from University of Washington](https://courses.cs.washington.edu/courses/cse403/10wi/lectures/security_audit_checklist.pdf) General tips from two perspectives: Programmer and Attacker. Also tips specific to Ruby/Java/JSP/PHP
 - [Secure Code Review Checklist](https://github.com/softwaresecured/secure-code-review-checklist) Modelled after OWASP.
-
-
 
 ## Java Code Review Checklists
 - [30+ items for Reviewing Java Code](https://www.java-success.com/30-java-code-review-checklist-items/)  A checklist with concrete examples, covering aspects relevant to object-oriented programming.
