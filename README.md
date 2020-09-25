@@ -14,6 +14,7 @@ A curated list of code review checklists. Contributions welcome!
 
 ## Java Code Review Checklists
 - [30+ items for Reviewing Java Code](https://www.java-success.com/30-java-code-review-checklist-items/)  A checklist with concrete examples, covering aspects relevant to object-oriented programming.
+- [Java Code Review Checklist from DZone](https://dzone.com/articles/java-code-review-checklist) Concrete list for Java.
 - [Java Concurrency Checklist](https://github.com/code-review-checklists/java-concurrency) An in-depth ressource dedicated to Java concurrency best practices.
 
 ## Pull Request Checklist
