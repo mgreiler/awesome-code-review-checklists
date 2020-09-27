@@ -17,8 +17,16 @@ A curated list of code review checklists. Contributions welcome!
 - [Java Code Review Checklist from DZone](https://dzone.com/articles/java-code-review-checklist) Concrete list for Java.
 - [Java Concurrency Checklist](https://github.com/code-review-checklists/java-concurrency) An in-depth ressource dedicated to Java concurrency best practices.
 
+## JavaScript Code Review Checklists
+- [Google's JavaScript Guideline](https://google.github.io/styleguide/jsguide.html)
+- [AirBnB JavaScript Guidelines](https://github.com/airbnb/javascript)
+- [Short JavaScript Checklist](https://github.com/itsallrelative/Javascript-Code-Review-Checklist)
+- [JavaScript Code Review Guideline including Frameworks such as Angular 1 & JQuery](https://github.com/kdsingharneja/the-javascript-code-review-checklist)
+
 ## C# Code Review Checklists
 - [Short List of rules C# Code](https://github.com/samuelwill/csharp-code-review-checklist)
+
+## C++ Code Review Checklist
 - [Checklist referencing sources](https://github.com/swomack/cpp-code-review-checklist)
 
 ## Pull Request Checklist
