@@ -17,5 +17,9 @@ A curated list of code review checklists. Contributions welcome!
 - [Java Code Review Checklist from DZone](https://dzone.com/articles/java-code-review-checklist) Concrete list for Java.
 - [Java Concurrency Checklist](https://github.com/code-review-checklists/java-concurrency) An in-depth ressource dedicated to Java concurrency best practices.
 
+## C# Code Review Checklists
+- [Short List of rules C# Code](https://github.com/samuelwill/csharp-code-review-checklist)
+- [Checklist referencing sources](https://github.com/swomack/cpp-code-review-checklist)
+
 ## Pull Request Checklist
 - [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
