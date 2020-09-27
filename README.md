@@ -1,6 +1,10 @@
 # Awesome Code Review Checklists
 
-A curated list of code review checklists. Contributions welcome!
+A curated list of code review checklists. 
+
+**Contributions welcome!**
+Please add code review checklists that you have checked for their awesomeness. 
+Also, please help validate and check excisting checklists and raise any concerns that you have with them.
 
 
 ## General Code Review Checklists
