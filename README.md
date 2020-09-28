@@ -31,8 +31,12 @@ Also, please help validate and check excisting checklists and raise any concerns
 ## C# Code Review Checklists
 - [Short List of rules C# Code](https://github.com/samuelwill/csharp-code-review-checklist)
 
-## C++ Code Review Checklist
+## C++ Code Review Checklists
 - [Checklist referencing sources](https://github.com/swomack/cpp-code-review-checklist)
+
+## Python Code Review Checklists
+- [Python Code Style with examples](https://docs.python-guide.org/writing/style/)
+
 
 ## Pull Request Checklist
 - [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
