@@ -12,6 +12,9 @@ Also, please help validate and check existing checklists and raise any concerns 
 - [Code Review Checklist by Michaela Greiler](https://www.michaelagreiler.com/code-review-checklist-2/) This list covers all relevant aspects from implementation, to readability and secuity.
 - [Code Review Checklist by Suremder Reddy Gutha](https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/) Short code review list with nice visualization.
 
+## Company Code Review Checklists
+- [Squarespace Code Review Checklist](https://static1.squarespace.com/static/56ab961ecbced617ccd2461e/t/5d39b9a65283fc0001e995b8/1564064166997/Squarespace+Code+Review+Checklist.pdf)
+
 ## Security Related Code Review Checklists
 - [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 - [Security Audit Checklist: Code Perspective from University of Washington](https://courses.cs.washington.edu/courses/cse403/10wi/lectures/security_audit_checklist.pdf) General tips from two perspectives: Programmer and Attacker. Also tips specific to Ruby/Java/JSP/PHP
