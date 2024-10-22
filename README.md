@@ -10,6 +10,7 @@ Also, please help validate and check existing checklists and raise any concerns 
 
 ## General Code Review Checklists
 - [Code Review Checklist by Michaela Greiler](https://www.michaelagreiler.com/code-review-checklist-2/) This list covers all relevant aspects from implementation, to readability and secuity.
+- [Checlist from Pluralsight](https://www.pluralsight.com/blog/software-development/code-review-checklist)
 - [Code Review Checklist by Suremder Reddy Gutha](https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/) Short code review list with nice visualization.
 
 ## Company Code Review Checklists
